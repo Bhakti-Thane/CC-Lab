@@ -356,21 +356,6 @@ Cloud_computing/
 ---
 *Laboratory Experiment conducted for Cloud Computing / Computer Networks Course.*
 
-Create a professional GitHub README.md for my project.
-
-Project title:
-# Performance Analysis of Virtual Machines and Containers
-
-I want the README to follow the EXACT same visual and structural style as this example:
-
-# Performance Analysis of Type-1 and Type-2 Hypervisors
-
-[![Course](https://img.shields.io/badge/Course-Cloud%20Computing%20%2F%20Computer%20Networks-blue.svg)](#)
-[![Hypervisors](https://img.shields.io/badge/Hypervisors-Proxmox%20VE%20%7C%20VMware%20Workstation-orange.svg)](#)
-[![Benchmark](https://img.shields.io/badge/Benchmark-Sysbench%20CPU%2020k%20Primes-green.svg)](#)
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](#)
-
----
 
 ## Executive Summary
 
@@ -525,3 +510,6 @@ IMPORTANT RULES:
 8. Do NOT add unrelated sections.
 9. Keep the wording suitable for a college Cloud Computing / Computer Networks laboratory project.
 10. Return ONLY the complete README.md content in Markdown format.
+
+
+
